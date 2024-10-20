@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: furness
+about: add a furness to the backpack
 title: ''
 labels: ''
 assignees: ''
